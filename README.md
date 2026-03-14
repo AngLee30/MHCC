@@ -14,7 +14,7 @@ Li Lin</a>,
 Xinrui Zhang</a>,
 Kaiwen Xia</a>,
 Qi Zhang</a>,
-Shuai Wang</a>
+Shuai Wang*</a>
 </p>
 
 <p align="center">
