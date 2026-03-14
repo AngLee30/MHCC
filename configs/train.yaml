@@ -1,0 +1,11 @@
+dataset_path: ./process_data/train_data/dataset.pkl
+ablation: False
+epochs: 3000
+lr: 5.e-3
+weight_decay: 1.e-4
+chart:
+    gen_chart: True
+    max_value: 40
+    min_value: 33
+logging:
+    print_every: 100

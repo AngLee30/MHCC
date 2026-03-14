@@ -1,0 +1,10 @@
+dataset_path: ./process_data/train_data/dataset.pkl
+model_state_dict_path: ./exp/normal/#0/35_2417/checkpoints/model_best.pt
+save_dir: ./exp/counterfactual/35_2417/
+epochs: 500
+lr: 1.e-3
+weight_decay: 1.e-4
+lam: 300.
+hypergraph: 'G_i' # 'G_s' or 'G_i'
+logging:
+    print_every: 10

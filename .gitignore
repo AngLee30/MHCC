@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode
+.vscode/
+
+exp/
+process_data/train_data/
+process_data/filter
+data/
